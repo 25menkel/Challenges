@@ -1,4 +1,4 @@
-// set 1 number 2
+// set 1 challenge 2
 
 function squareDiff(n, numbers) {
     let mainDiagonal = 0;
